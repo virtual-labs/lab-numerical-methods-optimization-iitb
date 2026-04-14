@@ -15,21 +15,21 @@
     "name": "Numerical Methods in Chemical Engineering-Optimization-Jacobians and Hessians",
     "short-name": "optimization-jacobians-hessians",
     "repo": "https://github.com/virtual-labs/exp-optimization-jacobians-hessians-iitb",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Numerical Methods in Chemical Engineering-Optimization-Charactertizing extrema",
     "short-name": "charactertizing-extrema",
     "repo": "https://github.com/virtual-labs/exp-charactertizing-extrema-iitb",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Numerical Methods in Chemical Engineering-Optimization-Interval methods: Bisection",
     "short-name": "interval-bisection",
     "repo": "https://github.com/virtual-labs/exp-interval-bisection-iitb",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -43,7 +43,7 @@
     "name": "Numerical Methods in Chemical Engineering-Optimization-Newton's method",
     "short-name": "optimization-newtons-method",
     "repo": "https://github.com/virtual-labs/exp-optimization-newtons-method-iitb",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
