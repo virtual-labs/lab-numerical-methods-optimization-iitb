@@ -33,10 +33,10 @@
     "deploy": true
   },
   {
-    "name": "Numerical Methods in Chemical Engineering-Optimization-Interval methods: Golden Search",
+    "name": "Numerical Methods in Chemical Engineering-Optimization-Interval Methods Golden Search - Transcendental Equation",
     "short-name": "interval-golden-search",
     "repo": "https://github.com/virtual-labs/exp-interval-golden-search-iitb",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -49,6 +49,13 @@
   {
     "name": "Numerical Methods in Chemical Engineering-Optimization-Steepest Descent",
     "short-name": "optimization-steepest-descent",
+    "repo": "https://github.com/virtual-labs/exp-optimization-steepest-descent-iitb",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Numerical Methods in Chemical Engineering-Optimization-Interval methods Golden Search- Polynomial Equation",
+    "short-name": "optimization-polynomial-equation",
     "repo": "https://github.com/virtual-labs/exp-optimization-steepest-descent-iitb",
     "tag": "v1.0.0",
     "deploy": true
